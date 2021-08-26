@@ -1,9 +1,10 @@
 import "./App.css"
+import FilterTable from "./components/FilterTable"
 
 function App() {
   return (
     <div className="App">
-      <h2>hellooo</h2>
+      <FilterTable />
     </div>
   )
 }
