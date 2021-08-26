@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Js Search Filter
+
+this app can search in many columns in the same time
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
